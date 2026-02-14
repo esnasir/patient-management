@@ -2,7 +2,6 @@ package org.nasir.patientservice.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import jakarta.validation.Valid;
 import jakarta.validation.groups.Default;
 import org.nasir.patientservice.dto.PatientRequestDTO;
 import org.nasir.patientservice.dto.PatientResponseDTO;
